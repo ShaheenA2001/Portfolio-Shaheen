@@ -1020,7 +1020,7 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-js::after {
-  width: 60%;
+  width: 80%;
 }
 .skills
   > .container
@@ -1029,6 +1029,24 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-react::after {
+  width: 85%;
+}
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-redux::after {
+  width: 70%;
+}
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-next::after {
   width: 70%;
 }
 .skills
@@ -1048,7 +1066,7 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-node::after {
-  width: 60%;
+  width: 80%;
 }
 .skills
   > .container
@@ -1057,7 +1075,7 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-php::after {
-  width: 50%;
+  width: 60%;
 }
 .skills
   > .container
@@ -1066,7 +1084,7 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-mongo::after {
-  width: 70%;
+  width: 80%;
 }
 .skills
   > .container
@@ -1075,7 +1093,7 @@ body > .btn-totop > img {
   > .skill-list
   > .skill-item
   > .skill-bar.-firebase:after {
-  width: 50%;
+  width: 85%;
 }
 
 .skills
@@ -1114,6 +1132,77 @@ body > .btn-totop > img {
   > .skill-bar.-sketch:after {
   width: 55%;
 }
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-native:after {
+  width: 80%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-android:after {
+  width: 75%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-nativewind:after {
+  width: 90%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-kotlin:after {
+  width: 80%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-java:after {
+  width: 75%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-expo:after {
+  width: 75%;
+}
+
+.skills
+  > .container
+  > .skill-accordion
+  > .skill-content
+  > .skill-list
+  > .skill-item
+  > .skill-bar.-gimp:after {
+  width: 60%;
+}
+
 
 /*=== SKILLS END ===*/
 
